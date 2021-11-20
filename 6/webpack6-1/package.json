@@ -1,0 +1,19 @@
+{
+  "name": "webpack6-1",
+  "version": "1.0.0",
+  "description": "https://www.jiangruitao.com",
+  "main": "index.js",
+  "scripts": {
+    "build": "cross-env MY_ENV=dev webpack"
+  },
+  "keywords": [
+    "webpack-babel-tutorial"
+  ],
+  "author": "jruit",
+  "license": "ISC",
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "webpack": "^5.21.2",
+    "webpack-cli": "^4.5.0"
+  }
+}

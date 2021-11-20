@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://webpack5-5/./a.js"],"names":[],"mappings":";AAAA;AACA;AACA;AACA;AACA","file":"bundle.js","sourcesContent":["  let name = 'Jack';\r\n  debugger;\r\n  console.log(name);\r\n  let age = 18;\r\n  console.log(age);\r\n\r\n"],"sourceRoot":""}

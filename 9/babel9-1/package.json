@@ -1,0 +1,19 @@
+{
+  "name": "babel9-1",
+  "version": "1.0.0",
+  "description": "https://www.jiangruitao.com",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx babel main.js -o compiled.js"
+  },
+  "keywords": [
+    "webpack","babel","tutorial"
+  ],
+  "author": "jruit",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "7.13.10",
+    "@babel/core": "7.13.10",
+    "@babel/preset-env": "7.13.10"
+  }
+}

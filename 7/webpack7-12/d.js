@@ -1,0 +1,1 @@
+export var year = '2077';

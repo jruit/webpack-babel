@@ -1,0 +1,1 @@
+export let del = (a, b) => a - b;
